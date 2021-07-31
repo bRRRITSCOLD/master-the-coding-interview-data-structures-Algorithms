@@ -16,3 +16,6 @@
 1. [MD5 Hash](http://www.miraclesalad.com/webtools/md5.php)
 2. [Hash Tables](https://en.wikipedia.org/wiki/Hash_table)
 3. [Hash Table Animation](https://www.cs.usfca.edu/~galles/visualization/OpenHash.html)
+
+## Section-8
+1. [How Linked List Works](https://visualgo.net/en/list)

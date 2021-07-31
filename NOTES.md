@@ -12,3 +12,7 @@
 2. [Crash Course RAMs and Registers](http://statmath.wu.ac.at/courses/data-analysis/itdtHTML/node55.html)
 3. [Computer Memory](http://statmath.wu.ac.at/courses/data-analysis/itdtHTML/node55.html)
 
+## Section-7
+1. [MD5 Hash](http://www.miraclesalad.com/webtools/md5.php)
+2. [Hash Tables](https://en.wikipedia.org/wiki/Hash_table)
+3. [Hash Table Animation](https://www.cs.usfca.edu/~galles/visualization/OpenHash.html)

@@ -19,3 +19,13 @@
 
 ## Section-8
 1. [How Linked List Works](https://visualgo.net/en/list)
+
+## Section-10
+1. [Binary Search Tree Visualization](https://visualgo.net/bn/bst?slide=1)
+2. [AVL Tree Visualization](https://www.cs.usfca.edu/~galles/visualization/AVLtree.html)
+3. [AVL Tree How it Works](https://medium.com/basecs/the-little-avl-tree-that-could-86a3cae410c7)
+4. [Red Black Tree Visualization](https://www.cs.usfca.edu/~galles/visualization/RedBlack.html)
+5. [Red Black Tree How it Works](https://medium.com/basecs/painting-nodes-black-with-red-black-trees-60eacb2be9a5)
+7. [Binary Heap Visualization](https://visualgo.net/en/heap?slide=1)
+8. [Why Are Two Different Concepts Called Heap](https://stackoverflow.com/questions/1699057/why-are-two-different-concepts-both-called-heap)
+9. [Example of Priority Queue in JavaScript](https://www.geeksforgeeks.org/implementation-priority-queue-javascript/)

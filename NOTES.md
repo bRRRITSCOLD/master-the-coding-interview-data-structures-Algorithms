@@ -32,3 +32,7 @@
 
 ## Section-11
 1. [Graph Visualization](https://visualgo.net/en/graphds?slide=1)
+
+## Section-12
+1. [Tail Call Optimization](https://2ality.com/2015/06/tail-call-optimization.html)
+2. [Rel World Examples of Recursion](https://stackoverflow.com/questions/105838/real-world-examples-of-recursion)

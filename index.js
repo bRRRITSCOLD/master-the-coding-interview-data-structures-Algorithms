@@ -7,6 +7,7 @@ const sectionNine = require('./section-9');
 const sectionTen = require('./section-10');
 const sectionEleven = require('./section-11');
 const sectionTwelve = require('./section-12');
+const sectionThirteen = require('./section-13');
 
 
 (() => {
@@ -20,6 +21,7 @@ const sectionTwelve = require('./section-12');
     sectionTen.run();
     sectionEleven.run();
     sectionTwelve.run();
+    sectionThirteen.run();
 
     process.exit(0);
   } catch (err) {

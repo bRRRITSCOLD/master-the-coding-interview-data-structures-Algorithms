@@ -36,3 +36,6 @@
 ## Section-12
 1. [Tail Call Optimization](https://2ality.com/2015/06/tail-call-optimization.html)
 2. [Rel World Examples of Recursion](https://stackoverflow.com/questions/105838/real-world-examples-of-recursion)
+
+## Section-13
+1. [Sorting Algorithim Animations](https://www.toptal.com/developers/sorting-algorithms)
